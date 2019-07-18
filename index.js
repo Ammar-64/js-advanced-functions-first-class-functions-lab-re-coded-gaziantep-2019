@@ -16,3 +16,6 @@ function createFareMultiplier(num){
 const fareDoubler = function fareDoubler(num){
   return num*2
 }
+const fareTripler = function fareTripler(num){
+  return num*3
+}
