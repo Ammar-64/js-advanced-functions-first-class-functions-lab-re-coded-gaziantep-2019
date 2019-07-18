@@ -21,4 +21,4 @@ const fareTripler = function fareTripler(num){
 }
 function fetchSpecifiedDrivers(array, driver){
   return driver(array);
-} 
+}
