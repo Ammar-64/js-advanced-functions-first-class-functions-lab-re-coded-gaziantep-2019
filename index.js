@@ -13,3 +13,6 @@ function createFareMultiplier(num){
     return num*num
   }
 }
+const fareDoubler = function fareDoubler(num){
+  return num*2
+}
