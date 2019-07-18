@@ -19,6 +19,6 @@ const fareDoubler = function fareDoubler(num){
 const fareTripler = function fareTripler(num){
   return num*3
 }
-function fetchSpecifiedDrivers(array, smth){
-  return smth(array);
+function fetchSpecifiedDrivers(array, driver){
+  return driver(array);
 } 
